@@ -3,6 +3,7 @@
 As super simple how to on how to map you global friends on a ..... Map.
 
 let's get started:
+answered
 
 ## 1. Adjust the Input Form
 We're using Google Forms to collect the data. For that, adjust the existing forms title/description/questions to your needs:
